@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Audi 80",
+    "body": "Универсал",
+    "transmission": "Механика",
+    "engine": "Дизель",
+    "year": 1993.0
+  },
+  {
+    "name": "BMW 5-Series (E60)",
+    "body": "Седан",
+    "transmission": "Автомат",
+    "engine": "Бензин",
+    "year": 2003.0
+  },
+  {
+    "name": "Daewoo Nexia",
+    "body": "Седан",
+    "transmission": "Реактивная",
+    "engine": "Отсутствует",
+    "year": 1994.0
+  },
+  {
+    "name": "Tesla Model 3",
+    "body": "Седан",
+    "transmission": "Автомат",
+    "engine": "Эликтричество",
+    "year": 2017.0
+  },
+  {
+    "name": "Mercedes-banan",
+    "body": "Седан",
+    "transmission": "Любая",
+    "engine": "Бензин",
+    "year": 2021.0
+  }
+]
